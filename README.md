@@ -1,7 +1,7 @@
 # actuator
 
 Dynamixel test program
-Dynamixel SDK is needed.
+Dependency : Dynamixel C++ SDK 
 
 # What to do on Jetson nano
 
