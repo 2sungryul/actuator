@@ -6,11 +6,13 @@ Dynamixel test program
 
 How to download, build, and run on Jetson nano
 
-$ git clone https://github.com/2sungryul/facedetect.git
+$ git clone https://github.com/2sungryul/actuator.git
 
-$ cd facedetect
+$ cd actuator
 
 $ make
 
-$ ./facedetect
+$ ./actuator
+
+Usage : f(forward),b(backward),l(left turn),r(right turn),space(stop)
 
