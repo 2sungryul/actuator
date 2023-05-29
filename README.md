@@ -1,6 +1,7 @@
 # actuator
 
 Dynamixel test program
+Dynamixel SDK is needed.
 
 # What to do on Jetson nano
 
