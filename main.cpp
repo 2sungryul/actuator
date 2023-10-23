@@ -29,10 +29,10 @@ int main(void)
             {
             case 's': goal1 = 0; goal2 = 0; break;
             case ' ': goal1 = 0; goal2 = 0; break;
-            case 'f': goal1 = 30; goal2 = -30; break;
-            case 'b': goal1 = -30; goal2 = 30; break;
-            case 'l': goal1 = -30; goal2 = -30; break;
-            case 'r': goal1 = 30; goal2 = 30; break;
+            case 'f': goal1 = 50; goal2 = -50; break;
+            case 'b': goal1 = -50; goal2 = 50; break;
+            case 'l': goal1 = -50; goal2 = -50; break;
+            case 'r': goal1 = 50; goal2 = 50; break;
             default : goal1 = 0; goal2 = 0; break;
             }         
         }
