@@ -1,7 +1,7 @@
 CC = g++   
 CCFLAGS = -g -Wall
 
-DXLFLAGS = -I/usr/local/include/dynamixel_sdk_cpp
+DXLFLAGS = -I/usr/local/include/dynamixel_sdk
 DXLFLAGS += -ldxl_x64_cpp             
 
 TARGET = actuator
